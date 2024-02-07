@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color>#000000</brand_color>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="TEST">b07c160197e13110f99bfcdfe153af9b</compiled_page_registry>
+        <description/>
+        <global_search display_value="SOW - Search Configuration">e3147e93c3733010965e070e9140dd2e</global_search>
+        <global_search_data display_value="Agent Workspace Search Config">4961e3e7871033000929717936cb0ba7</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>TEST</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color>#FFFF00</primary_color>
+        <search_enabled>true</search_enabled>
+        <show_search_result_redaction_warning>false</show_search_result_redaction_warning>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 11:48:11</sys_created_on>
+        <sys_id>4a4cde4d97a13110f99bfcdfe153af89</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>TEST</sys_name>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_update_name>sys_aw_master_config_4a4cde4d97a13110f99bfcdfe153af89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 09:02:32</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo>488cd60197e13110f99bfcdfe153afb1</workspace_logo>
+        <workspace_url>test</workspace_url>
+    </sys_aw_master_config>
+</record_update>

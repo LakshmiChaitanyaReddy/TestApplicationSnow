@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">4ecdda81b2e13110a87d76caa22f4437</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">0ecdda81c3e1311011a07e7b45531e2e</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-26 11:54:02</sys_created_on>
+        <sys_id>cecdda813ee131102dc604a3dafd222e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_cecdda813ee131102dc604a3dafd222e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-26 11:54:02</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 11:23:48</sys_created_on>
+        <sys_id>7bd6120997a13110f99bfcdfe153af04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.875316.test-workspace.*.snc_internal</sys_name>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_security_acl display_value="x.875316.test-workspace.*">62d69ec548a13110befae989c22ed6a1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7bd6120997a13110f99bfcdfe153af04</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 11:23:48</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

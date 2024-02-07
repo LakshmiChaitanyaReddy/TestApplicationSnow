@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Lists">13fc164197e13110f99bfcdfe153afc1</content>
+        <content_attrs/>
+        <content_component display_value="sn-lp-editor-comps-dynamic-config-buttons">002d9fea9d897c96b6e198332ca7f1a1</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>list-outline</icon>
+        <id>list</id>
+        <label>Lists</label>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 11:50:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dfdc924197e13110f99bfcdfe153af6a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_update_name>sys_aw_module_dfdc924197e13110f99bfcdfe153af6a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 09:01:26</sys_updated_on>
+        <toolbar_button display_value="Lists Button">03fc124197e13110f99bfcdfe153af93</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="TEST">4a4cde4d97a13110f99bfcdfe153af89</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=dfdc924197e13110f99bfcdfe153af6a"/>
+</record_update>
