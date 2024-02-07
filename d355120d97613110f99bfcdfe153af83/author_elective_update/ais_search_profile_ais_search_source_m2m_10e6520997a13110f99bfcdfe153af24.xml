@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="DELETE">
+        <profile display_value="test-workspace Search Profile">6ed69ec5e5a131101e49504ce97abcaa</profile>
+        <search_source display_value="Empires">10e6520997a13110f99bfcdfe153af21</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 11:23:51</sys_created_on>
+        <sys_id>10e6520997a13110f99bfcdfe153af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test-workspace Search Profile.Empires</sys_name>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_10e6520997a13110f99bfcdfe153af24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 11:23:51</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</application>
+        <file_path/>
+        <instance_id>5f5f52b6db887010e26fd7c8f496195b</instance_id>
+        <instance_name>dev116431</instance_name>
+        <name>ais_search_profile_ais_search_source_m2m_10e6520997a13110f99bfcdfe153af24</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="test-workspace Search Profile">6ed69ec5e5a131101e49504ce97abcaa</profile>
+        <search_source display_value="Empires">10e6520997a13110f99bfcdfe153af21</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 11:23:51</sys_created_on>
+        <sys_id>10e6520997a13110f99bfcdfe153af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test-workspace Search Profile.Empires</sys_name>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_10e6520997a13110f99bfcdfe153af24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 11:23:51</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>]]></payload>
+        <payload_hash>1782950315</payload_hash>
+        <record_name>test-workspace Search Profile.Empires</record_name>
+        <reverted_from/>
+        <source>21ec6fc4475c4a909cd45088c26d4356</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 07:58:27</sys_created_on>
+        <sys_id>0aec6fc4475c4a909cd45088c26d43c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d82934b320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 07:58:27</sys_updated_on>
+        <type>AI Search Search Profile Search Source M</type>
+        <update_guid>c6ec6fc44c5c4a905675a4fc08fcf5c5</update_guid>
+        <update_guid_history>c6ec6fc44c5c4a905675a4fc08fcf5c5:1782950315</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="test-workspace Search Profile.Empires">664d6f08475c4a909cd45088c26d4396</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 08:00:07</sys_created_on>
+        <sys_db_object display_value="" name="ais_search_profile_ais_search_source_m2m">ais_search_profile_ais_search_source_m2m</sys_db_object>
+        <sys_id>3887ad76828b472e9ff85b7ebfb07304</sys_id>
+        <sys_metadata>10e6520997a13110f99bfcdfe153af24</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test-workspace Search Profile.Empires</sys_name>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_scope_delete display_value="">3698fd90e43843e0a99739b9490db451</sys_scope_delete>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_10e6520997a13110f99bfcdfe153af24</sys_update_name>
+        <sys_update_version display_value="ais_search_profile_ais_search_source_m2m_10e6520997a13110f99bfcdfe153af24">0aec6fc4475c4a909cd45088c26d43c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 08:00:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

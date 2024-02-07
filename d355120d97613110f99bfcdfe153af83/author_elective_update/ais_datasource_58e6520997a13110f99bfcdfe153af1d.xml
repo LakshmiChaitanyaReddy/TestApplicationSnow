@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="DELETE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Empires Table</name>
+        <retention_policy/>
+        <source>u_empires</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 11:23:50</sys_created_on>
+        <sys_id>58e6520997a13110f99bfcdfe153af1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Empires Table</sys_name>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_update_name>ais_datasource_58e6520997a13110f99bfcdfe153af1d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 11:23:50</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</application>
+        <file_path/>
+        <instance_id>5f5f52b6db887010e26fd7c8f496195b</instance_id>
+        <instance_name>dev116431</instance_name>
+        <name>ais_datasource_58e6520997a13110f99bfcdfe153af1d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Empires Table</name>
+        <retention_policy/>
+        <source>u_empires</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-26 11:23:50</sys_created_on>
+        <sys_id>58e6520997a13110f99bfcdfe153af1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Empires Table</sys_name>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_update_name>ais_datasource_58e6520997a13110f99bfcdfe153af1d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-26 11:23:50</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>]]></payload>
+        <payload_hash>1170287800</payload_hash>
+        <record_name>Empires Table</record_name>
+        <reverted_from/>
+        <source>21ec6fc4475c4a909cd45088c26d4356</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 07:58:27</sys_created_on>
+        <sys_id>46ec6fc4475c4a909cd45088c26d439d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d82934a110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 07:58:27</sys_updated_on>
+        <type>AI Search Indexed Source</type>
+        <update_guid>06ec6fc47d5c4a90ababe410c75ed29d</update_guid>
+        <update_guid_history>06ec6fc47d5c4a90ababe410c75ed29d:1170287800</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Empires Table">4f4daf08475c4a909cd45088c26d434b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 08:00:09</sys_created_on>
+        <sys_db_object display_value="" name="ais_datasource">ais_datasource</sys_db_object>
+        <sys_id>0019a5496c7145288050152e10383f90</sys_id>
+        <sys_metadata>58e6520997a13110f99bfcdfe153af1d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Empires Table</sys_name>
+        <sys_package display_value="Test Workspace" source="x_875316_test_work">d355120d97613110f99bfcdfe153af83</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Workspace">d355120d97613110f99bfcdfe153af83</sys_scope>
+        <sys_scope_delete display_value="">3698fd90e43843e0a99739b9490db451</sys_scope_delete>
+        <sys_update_name>ais_datasource_58e6520997a13110f99bfcdfe153af1d</sys_update_name>
+        <sys_update_version display_value="ais_datasource_58e6520997a13110f99bfcdfe153af1d">46ec6fc4475c4a909cd45088c26d439d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 08:00:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
